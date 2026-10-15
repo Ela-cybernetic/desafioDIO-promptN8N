@@ -13,7 +13,7 @@ Público:
 Usuário individual que deseja acompanhar seus gastos.
 
 Ferramentas envolvidas:  
-API do banco/cartão de crédito e Google Sheets.
+Extrato bancário via Gmail e Google Sheets.
  
 
 Fluxo:
