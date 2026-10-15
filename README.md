@@ -9,20 +9,20 @@ Atue como um especialista em N8N.
 
 Crie uma automação para organizar o controle financeiro pessoal, registrando automaticamente todas as transações do cartão de crédito em uma planilha.
 
-**Público:**  
+Público:
 Usuário individual que deseja acompanhar seus gastos.
 
-**Ferramentas envolvidas:**  
+Ferramentas envolvidas:  
 API do banco/cartão de crédito e Google Sheets.
  
 
-**Fluxo:**  
+Fluxo:
 1. Detectar nova transação no cartão  
 2. Extrair os dados principais da compra  
 3. Registrar cada transação em uma linha da planilha  
 4. Atualizar saldo acumulado 
 
-**Regras:**  
+Regras:  
 - A planilha deve conter: data da compra, nome do cartão, tipo de pagamento (crédito ou débito),categoria, descrição, valor e número de parcelas (se houver).
 - Transações de estorno devem ser registradas no mesmo formato, com valor negativo.
 - Ignorar transações duplicadas.
