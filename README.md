@@ -1,4 +1,4 @@
-# 🎯 Desafio Criativo - Automação N8N de Controle Financeiro
+# 🎯 Desafio Criativo - Automação N8N 
 
 ## Objetivo
 O prompt que criei tem o objetivo de ajudar a criar um fluxo no N8N para registrar as compras feitas no cartão de crédito em uma planilha do Google Sheets. Dessa forma, é possível criar um dashboard com essas informações futuramente.
